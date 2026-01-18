@@ -287,7 +287,7 @@ proxies:
     headers:
       Host: 17685523785604.206355.xyz
     path: '%2Fvideomuaawe'
-- name: United States_San Francisco_trojan_1114
+- name: None_None_trojan_1114
   network: ws
   password: 148f82fa-d43a-4e1c-9536-4109e8c022a5
   port: 2087
@@ -467,7 +467,7 @@ proxies:
     headers:
       Host: 17685523788736.206352.xyz
     path: '%2Fagraeabtegrrh'
-- name: United States_None_trojan_1129
+- name: None_None_trojan_1129
   network: ws
   password: 148f82fa-d43a-4e1c-9536-4109e8c022a5
   port: 8443
@@ -515,7 +515,7 @@ proxies:
     headers:
       Host: 17685523787833.206353.xyz
     path: '%2Fagrbniuh'
-- name: None_None_trojan_1133
+- name: United States_None_trojan_1133
   network: ws
   password: 148f82fa-d43a-4e1c-9536-4109e8c022a5
   port: 8443
@@ -1636,7 +1636,7 @@ proxy-groups:
   - None_None_trojan_1111
   - United States_San Francisco_trojan_1112
   - None_None_trojan_1113
-  - United States_San Francisco_trojan_1114
+  - None_None_trojan_1114
   - None_None_trojan_1115
   - None_None_trojan_1116
   - None_None_trojan_1117
@@ -1651,11 +1651,11 @@ proxy-groups:
   - None_None_trojan_1126
   - None_None_trojan_1127
   - None_None_trojan_1128
-  - United States_None_trojan_1129
+  - None_None_trojan_1129
   - None_None_trojan_1130
   - None_None_trojan_1131
   - United States_None_trojan_1132
-  - None_None_trojan_1133
+  - United States_None_trojan_1133
   - India_None_vmess_1134
   - China_None_vmess_1135
   - China_None_vmess_1136
@@ -1821,7 +1821,7 @@ proxy-groups:
   - None_None_trojan_1111
   - United States_San Francisco_trojan_1112
   - None_None_trojan_1113
-  - United States_San Francisco_trojan_1114
+  - None_None_trojan_1114
   - None_None_trojan_1115
   - None_None_trojan_1116
   - None_None_trojan_1117
@@ -1836,11 +1836,11 @@ proxy-groups:
   - None_None_trojan_1126
   - None_None_trojan_1127
   - None_None_trojan_1128
-  - United States_None_trojan_1129
+  - None_None_trojan_1129
   - None_None_trojan_1130
   - None_None_trojan_1131
   - United States_None_trojan_1132
-  - None_None_trojan_1133
+  - United States_None_trojan_1133
   - India_None_vmess_1134
   - China_None_vmess_1135
   - China_None_vmess_1136
